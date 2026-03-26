@@ -64,6 +64,7 @@ LD_PRELOAD=./libmalloc.so ls -la
 # Test with 'factor' or 'cat'
 LD_PRELOAD=./libmalloc.so factor 20 30 40
 LD_PRELOAD=./libmalloc.so cat Makefile
+```
 
 ## 👤 Developer
 
