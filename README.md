@@ -84,4 +84,4 @@ This project was entirely designed and developed solo as part of the EPITA engin
 </div>
 
 ---
-**🛠️ Technologies:** C (C99), Make, POSIX (mmap), Bash (Tests), Git.
+**🛠️ Technologies:** C, Make, POSIX (mmap), Bash (Tests), Git.
